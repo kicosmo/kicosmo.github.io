@@ -1,7 +1,18 @@
 
+*{
+    font-family:'Times New Roman', Times, serif ;
+}
 
-.main-heading{
-    background-color: black;
-    color: rgb(255, 234, 234);
+p{
+    color: rgb(255, 223, 223);
+}
+
+.main_heading{
     text-align: center;
+    background-color: black;
+    color: white;
+}
+
+body{
+    background-color: black;
 }
